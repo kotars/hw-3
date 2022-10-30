@@ -1,0 +1,20 @@
+.annotation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem;
+  height: 23.3rem;
+  background: #ffffff;
+  border-radius: 0.8rem;
+}
+.annotation__header{
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 135%;
+    margin-bottom: 1.6rem;
+}
+.annotation__description{
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 150%;
+}

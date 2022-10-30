@@ -1,0 +1,29 @@
+.review {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem;
+ 
+  margin-bottom: 1.6rem;
+  height: 14.1rem;
+
+  background: #ffffff;
+  border-radius: 0.8rem;
+}
+.review__items{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.6rem;
+}
+.review__header{
+    font-weight: 700;
+font-size: 1.6rem;
+line-height: 135%;
+}
+.review__description{
+    font-weight: 400;
+font-size: 1.4rem;
+line-height: 150%;
+}

@@ -1,0 +1,11 @@
+.main{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 4rem;
+  padding:  4rem 5.1rem;
+}
+
+.book{
+  align-items: flex-end;
+  height: 23.3rem;
+}

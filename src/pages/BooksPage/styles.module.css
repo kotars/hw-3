@@ -1,0 +1,34 @@
+.navigation {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 2rem;
+  width: 28rem;
+  height: 66rem;
+  margin-right: 2rem;
+  background: #ffffff;
+  border-radius: 0.8rem;
+}
+
+.navigation__btn {
+  font-weight: 400;
+  letter-spacing: 0.008rem;
+  font-size: 1.6rem;
+  line-height: 138%;
+  margin-bottom: 2.4rem;
+}
+
+.navigation__btnActive{
+  font-weight: 700;
+}
+.main {
+  padding: 5.1rem 4rem;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.book {
+  align-items: center;
+  height: 21.6rem;
+  width: 88rem;
+}
